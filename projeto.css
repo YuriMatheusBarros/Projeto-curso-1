@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+.menu{
+    height: 200px;
+    background-color: rgb(9, 255, 0);
+}
+.img-perfil{
+    background-color: rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 2px solid black;
+    background-image: url(https://pngimg.com/uploads/alien/alien_PNG34.png);
+    background-repeat: no-repeat;
+    background-position: 15% 10%;
+    background-size: cover;
+    float: inline-start;
+
+
+}
+.banner-texto{
+    text-align: center;
+    align-content: center;
+    height: 200px;
+    background-color: rgb(9, 255, 0);
+}
+.middle{
+    background-color: green;
+    text-align: center;
+    align-content: center;
+    height: 25px;
+}
+.bottom{
+    background-color: rgb(9,225,0);
+    align-content: center;
+    text-align: center;
+    height: 100px;
+
+}
